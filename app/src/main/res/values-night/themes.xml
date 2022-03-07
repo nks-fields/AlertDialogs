@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AlertDialogs" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Main colors -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryLightColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorSecondaryVariant">@color/secondaryLightColor</item>
+        <item name="android:colorBackground">@color/backgroundColor</item>
+        <!-- Text colors -->
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="colorOnPrimary">@color/primaryTextColor</item>
+        <item name="colorOnSecondary">@color/primaryTextColor</item>
+        <!-- Button color regular -->
+        <item name="colorButtonNormal">@color/secondaryColor</item>
+
+    </style>
+</resources>

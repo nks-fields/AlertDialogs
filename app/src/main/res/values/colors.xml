@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- theme colors -->
+    <color name="primaryDarkColor">#006978</color>
+    <color name="primaryColor">#0097a7</color>
+    <color name="primaryLightColor">#006978</color>
+    <color name="secondaryColor">#00bcd4</color>
+    <color name="secondaryLightColor">#62efff</color>
+    <color name="secondaryDarkColor">#008ba3</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="backgroundColor">#C4919191</color>
+    <!-- resource colors -->
+    <color name="purple_200">#E040FB</color>
+    <color name="purple_700">#AC33C1</color>
+    <color name="teal_200">#40C4FF</color>
+    <color name="ic_launcher_background">#1EF5FF</color>
+    <!-- basic colors -->
+    <color name="black">#FF000000</color>
+    <color name="grey_900">#323232</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_200">#DEFCFF</color>
+    <color name="grey_300">#6E6A6A</color>
+    <color name="green_400">#2EAF04</color>
+    <color name="yellow_200">#FFFF00</color>
+</resources>
